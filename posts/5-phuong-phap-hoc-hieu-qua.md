@@ -1,7 +1,7 @@
 ---
 title: "5 Phương pháp học tập hiệu quả được Khoa học chứng minh"
 date: "2026-09-17"
-description: "Bài viết được chúng tôi đăng lại từ tạp chí *Dạy và Học* số 40 năm 2021. Bài gốc **5 Effective Studying Techniques That Are Backed** by Research của Edward Kang tại [đây](https://www.edutopia.org/article/5-research-backed-studying-techniques), Minh Trang *dịch*."
+description: "Bài viết được chúng tôi đăng lại từ tạp chí *Dạy và Học* số 40 năm 2021. Bài gốc 5 Effective Studying Techniques That Are Backed* by Research của Edward Kang, Minh Trang *dịch*."
 ---
 
 # 5 Phương pháp học tập hiệu quả được Khoa học chứng minh
