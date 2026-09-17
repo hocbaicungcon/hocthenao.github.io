@@ -1,6 +1,7 @@
 ---
 title: "6 phương pháp học tập hiệu quả"
 date: "2026-09-17"
+category: "Phương pháp"
 tags: "Phương pháp học, Kỹ năng học tập"
 description: "Ba bước nhỏ giúp bạn tạo một buổi học có mục tiêu và dễ duy trì."
 ---

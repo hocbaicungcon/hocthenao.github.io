@@ -1,6 +1,7 @@
 ---
 title: "Flashcard là gì?"
 date: "2026-09-17"
+category: "Phương pháp"
 tags: "Flashcard, Ghi nhớ"
 description: "Flashcard là công cụ hỗ trợ trí nhớ hiệu quả giúp học sinh học những kiến thức mới và ôn tập bài cũ, đặc biệt là học từ vựng tiếng Anh, tiếng Trung..."
 ---
