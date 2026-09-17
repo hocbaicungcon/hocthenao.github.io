@@ -8,6 +8,7 @@
 ---
 title: "Tiêu đề bài viết"
 date: "2026-09-17"
+category: "Giải trí"
 description: "Mô tả ngắn hiển thị trong danh sách bài viết."
 ---
 
