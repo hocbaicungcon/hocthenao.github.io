@@ -13,6 +13,10 @@
       .contact-message { align-self: center; max-width: 460px; font-size: 18px; line-height: 1.7; color: #53615c; }
       .contact-message p { margin: 0 0 27px; }
       .contact-message a:not(.button) { color: #ec6543; font-weight: 800; text-decoration: none; white-space: nowrap; }
+      .go-top { position: fixed; right: 24px; bottom: 24px; z-index: 10; width: 48px; height: 48px; border: 0; border-radius: 50%; background: #18312c; color: #fff; box-shadow: 0 10px 24px rgba(24,49,44,.24); cursor: pointer; font: 700 18px "Be Vietnam Pro", sans-serif; opacity: 0; transform: translateY(14px); pointer-events: none; transition: opacity .2s, transform .2s, background .2s; }
+      .go-top.visible { opacity: 1; transform: translateY(0); pointer-events: auto; }
+      .go-top:hover { background: #ec6543; }
+      .go-top:focus-visible { outline: 3px solid #f4bd4f; outline-offset: 3px; }
     </style>
   </head>
   <body>
@@ -81,6 +85,7 @@
       </section>
     </main>
     <footer><a class="brand" href="#trang-chu">HỌC <span>THẾ NÀO?</span></a><p>Học đúng cách, sống trọn hành trình.</p><p>© 2026</p></footer>
+    <button class="go-top" type="button" aria-label="Lên đầu trang" title="Lên đầu trang">↑</button>
     <script src="script.js"></script>
   </body>
 </html>
