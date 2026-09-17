@@ -5,18 +5,15 @@ category: "Phương pháp"
 tags: "Phương pháp học, Kỹ năng học tập"
 description: "Nếu bạn gặp một bài toán khó, dù cố gắng nhiều mà giải mãi không xong, thì làm thế nào? Câu trả lời phổ biến nhất là cố gắng tìm ra chỗ sai trong lập luận rồi đi tiếp hoặc “làm lại từ đầu”. Cả hai phương án theo kinh nghiệm này không phù hợp với những lời khuyên của các chuyên gia về não bộ."
 ---
-```
-Chúng tôi xin giới thiệu bài viết của tác giả Dương Trọng Tấn, đăng trên Tạp chí Epsilon số 10.
-```
+>Chúng tôi xin giới thiệu bài viết của tác giả Dương Trọng Tấn, đăng trên Tạp chí Epsilon số 10.
+
 Theo họ, não bộ của chúng ta hoạt động theo hai cơ chế khác nhau: tập trung (focused mode) và thư giãn (diffused mode). Khi ta tập trung cao độ vào giải quyết một bài toán, não sẽ vào cuộc sử dụng cơ chế tập trung với số ít các tế bào thần kinh tại một vùng tập trung của não bộ được huy động. Khi ta rơi vào thế bí như tình huống đã dẫn, thì dù có cố gắng đến mấy, cũng chỉ có vùng não tập trung được hoạt động. Có nghĩa là chúng ta có xu hướng lặp đi lặp lại các cách giải quyết vấn đề, và khó lòng thoát ra khỏi bế tắc. Khi đó hành động rà soát lại lời giải hay đi lại từng bước từ đầu không có ích gì mấy. Như thiên tài Albert Einstein từng nhận xét đại ý “bạn không thể giải bài toán theo 1000 cách giống nhau rồi hy vọng có lời giải khác!”. Trong những lúc bí bách như thế này, cách tốt nhất là tạm rời xa bài toán đấy, đi chơi, thư giãn rồi hẵng quay lại với bài toán. Đây không phải là lời xúi bậy vô trách nhiệm. Việc bạn tạm rời bài toán đó để đi bộ, hóng gió, hoặc ngồi thiền ít phút sẽ giúp não bộ chuyển sang chế độ thư giãn, lúc này các vùng khác của não bộ được kích hoạt. Nếu quay trở lại giải toán, bạn sẽ có khả năng tìm ra một con đường khác, không bế tắc như lúc đầu. 
 
 Trên đây chỉ là một trong hàng tá ví dụ cho thấy những nghiên cứu về não bộ có thể giúp cải thiện đáng kể cách thức chúng ta học tập và làm việc. Tuy nhiên, bấy lâu nay chúng ta vẫn không mấy khi nghĩ về việc tìm hiểu các kiến thức loại này để cải thiện cách học tập, vì chúng ta thường phó mặc cho thói quen sai khiến trong các hoạt động của mình.
 
 Có thể dẫn ra đây một thói quen tai hại khác vẫn chiếm chỗ trong trường học của chúng ta: Các bài giảng dài. Bạn có thể gặp ở bất kì trường học nào các tiết học kéo dài từ 45 phút tới vài tiếng. Bạn cũng dễ dàng bắt gặp cảnh tượng hàng tá học sinh lơ đãng, ngủ gật, hoặc ngồi làm việc riêng trong lớp vì không thể chú tâm vào bài giảng. Trong khi hầu hết các giáo viên đổ lỗi cho các cô cậu học trò, thì các chuyên gia não bộ có một lời giải thích đơn giản cho hiện tượng này:
 
-```
-Não chúng ta chỉ có khả năng chú tâm suy nghĩ trong một thời gian rất ngắn, chừng 10 phút, sau đó là sẽ đến giai đoạn mất tập trung. Đây là cơ chế phòng vệ hết sức tự nhiên của não người, vì vậy hãy phân chia các bài giảng thành từng phân đoạn ngắn hơn. Sau mỗi 10 phút tập trung, hãy thiết kế một hoạt động để thư giãn và chuyển đổi sang phân đoạn tiếp theo. Thực ra đã từ lâu người ta đã biết dùng kĩ thuật phân giờ Pomodoro với các quy tắc đơn giản kể trên để gia tăng đáng kể năng suất làm việc và học tập.
-```
+>Não chúng ta chỉ có khả năng chú tâm suy nghĩ trong một thời gian rất ngắn, chừng 10 phút, sau đó là sẽ đến giai đoạn mất tập trung. Đây là cơ chế phòng vệ hết sức tự nhiên của não người, vì vậy hãy phân chia các bài giảng thành từng phân đoạn ngắn hơn. Sau mỗi 10 phút tập trung, hãy thiết kế một hoạt động để thư giãn và chuyển đổi sang phân đoạn tiếp theo. Thực ra đã từ lâu người ta đã biết dùng kĩ thuật phân giờ Pomodoro với các quy tắc đơn giản kể trên để gia tăng đáng kể năng suất làm việc và học tập.
 
 Một nghiên cứu đăng trên Psychological Science in the Public Interest năm 20132 cho thấy, những phương pháp học tập được sử dụng phổ biến trong nhà trường như “tóm tắt nội dung bài giảng”, “dùng bút đánh dấu đoạn văn bản quan trọng khi đọc sách”, “đọc đi đọc lại một chương sách” hoá ra lại là những cách không mang lại mấy hiệu quả về ghi nhớ. Có những cách khác hữu hiệu hơn nhiều để giúp gia tăng hiệu quả học tập như: tích cực làm các bài luyện tập, hay học tập các kiến thức theo hình thức luyện tập phân tán với các khối kiến thức được chia nhỏ và học tập qua thời gian đủ dài.
 
