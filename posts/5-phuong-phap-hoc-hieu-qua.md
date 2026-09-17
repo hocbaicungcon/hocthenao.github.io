@@ -1,7 +1,7 @@
 ---
 title: "5 Phương pháp học tập hiệu quả được Khoa học chứng minh"
 date: "2026-09-17"
-description: "Bài viết được chúng tôi đăng lại từ tạp chí **Dạy và Học** số 40 năm 2021. Bài gốc 5 Effective Studying Techniques That Are Backed* by Research của Edward Kang, Minh Trang dịch."
+description: "Bài viết được chúng tôi đăng lại từ tạp chí Dạy và Học số 40 năm 2021. Bài gốc 5 Effective Studying Techniques That Are Backed by Research của Edward Kang, Minh Trang dịch."
 ---
 
 # 5 Phương pháp học tập hiệu quả được Khoa học chứng minh
@@ -53,8 +53,6 @@ Thử trả lời các câu hỏi trước khi biết nội dung bài học, kh�
 ### 2. Học ngắt quãng
 
 Chia nhỏ các phiên học (đây gọi là [kỹ thuật lặp lại ngắt quãng](https://o2.edu.vn/ky-thuat-lap-lai-ngat-quang-la-gi/)) – việc tập trung học một nội dung trong một khoảng thời gian ngắn vào các ngày khác nhau cải thiện đáng kể khả năng ghi nhớ và “triệu hồi” kiến thức so với học nhồi (massed practice).
-
-![5 Phương pháp học tập hiệu quả được Khoa học chứng minh 2](/Users/phuongphan/GitHub/hocthenao.github.io/assets/images/Girl-Education-Essay.webp)
 
 Cuốn sách How We Learn (tạm dịch: Học thế nào) lý giải về phương pháp này, bạn có thể gặp đôi chút khó khăn ban đầu khi quên đi một lượng khá kiến thức đã ôn tập – việc gom nhặt lại mọi thứ đòi hỏi rất nhiều nỗ lực.
 
