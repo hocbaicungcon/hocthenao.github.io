@@ -1,7 +1,8 @@
 ---
 title: " Kỹ thuật Feynman là gì?"
 date: "2026-09-17"
-description: "Kỹ thuật Feynman là một phương pháp học tập nổi tiếng giúp chúng ta nhanh chóng ghi nhớ và thật sự hiểu những gì đã học, nó bao gồm 4 bước. Đây là một trong những [Phương pháp học tập hiệu quả được Khoa học chứng minh](https://o2.edu.vn/5-phuong-phap-hoc-tap-hieu-qua-duoc-khoa-hoc-chung-minh/)."
+tags: "kỹ thuật Feynman, phương pháp học, Feynman"
+description: "Kỹ thuật Feynman là một phương pháp học tập nổi tiếng giúp chúng ta nhanh chóng ghi nhớ và thật sự hiểu những gì đã học, nó bao gồm 4 bước. Đây là một trong những Phương pháp học tập hiệu quả được Khoa học chứng minh."
 ---
 
 ## Kỹ thuật Feynman là gì?

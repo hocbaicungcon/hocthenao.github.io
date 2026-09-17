@@ -1,6 +1,7 @@
 ---
 title: "Flashcard là gì?"
 date: "2026-09-17"
+tags: "Flashcard, Ghi nhớ"
 description: "Flashcard là công cụ hỗ trợ trí nhớ hiệu quả giúp học sinh học những kiến thức mới và ôn tập bài cũ, đặc biệt là học từ vựng tiếng Anh, tiếng Trung..."
 ---
 
@@ -26,7 +27,7 @@ Các nhà nghiên cứu tại Đại học Princeton và UCLA chỉ ra rằng ph
 
 ![Sử dụng Flashcard có hiệu quả không?](/Users/phuongphan/GitHub/hocthenao.github.io/assets/images/tu-lam-flashcard.jpg)Flashcard có thể in sẵn nội dung hoặc để trống và bạn tự viết nội dung mình cần
 
-Bạn có thể sử dụng những quyển sổ, tập, giấy note… để ghi chép hoặc có thể tự làm hay mua [flashcard trắng](https://rentracks.vn/ZabRM3) để tự ghi các nội dung cần nhớ và và thuận tiện trong việc ôn tập lại sau này. Nên tự tay viết để chủ động ghi nhớ các nội dung bạn cần một cách lâu hơn. Hạn chế sử dụng các nội dung in sẵn. Bạn có thể mua thẻ Flashcard trắng tại link https://rentracks.vn/ZabRM3
+Bạn có thể sử dụng những quyển sổ, tập, giấy note… để ghi chép hoặc có thể tự làm hay mua [flashcard trắng](https://rentracks.vn/ZabRM3) để tự ghi các nội dung cần nhớ và và thuận tiện trong việc ôn tập lại sau này. Nên tự tay viết để chủ động ghi nhớ các nội dung bạn cần một cách lâu hơn. Hạn chế sử dụng các nội dung in sẵn. Bạn có thể mua thẻ Flashcard trắng tại link https://s.shopee.vn/9zxnn661VL
 
 ![Flashcard là gì?](/Users/phuongphan/GitHub/hocthenao.github.io/assets/images/flashcard-trang.jpeg)Một loại flash card trắng giá rẻ trên Shopee
 

@@ -1,6 +1,7 @@
 ---
 title: "Bắt đầu học hiệu quả từ hôm nay"
 date: "2026-09-17"
+tags: "Bắt đầu học, Kỹ năng học tập"
 description: "Ba bước nhỏ giúp bạn tạo một buổi học có mục tiêu và dễ duy trì."
 ---
 
